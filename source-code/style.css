@@ -101,6 +101,5 @@ p {
     font-family: 'inter';
     src: url(../fonts/static/Inter-Regular.ttf)
     format('truetype'); 
-    font-weight: 400;
     font-style: normal;
 }
